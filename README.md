@@ -969,7 +969,7 @@ When discovering new vulnerabilities:
 
 - ⭐ **Star this repository** for update notifications
 - 👀 **Watch releases** for new features and security updates
-- 🐦 **Follow on Twitter**: [@ESCalateTool](https://twitter.com/ethicalsoup)
+- 🐦 **Follow on Twitter**: [@ethicalsoup](https://twitter.com/ethicalsoup)
 ## 📊 **Project Statistics**
 
 ![GitHub stars](https://img.shields.io/github/stars/javalogicuser/escalate) ![GitHub forks](https://img.shields.io/github/forks/javalogicuser/escalate) ![GitHub issues](https://img.shields.io/github/issues/javalogicuser/escalate) ![GitHub pull requests](https://img.shields.io/github/issues-pr/javalogicuser/escalate) ![GitHub last commit](https://img.shields.io/github/last-commit/javalogicuser/escalate) ![GitHub release](https://img.shields.io/github/v/release/javalogicuser/escalate)
